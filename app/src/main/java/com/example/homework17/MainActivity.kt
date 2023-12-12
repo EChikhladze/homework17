@@ -1,10 +1,8 @@
 package com.example.homework17
 
 import android.content.Context
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
-import androidx.navigation.findNavController
+import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.fragment.NavHostFragment
 import com.example.homework17.databinding.ActivityMainBinding
 import com.example.homework17.login.LogInFragmentDirections
