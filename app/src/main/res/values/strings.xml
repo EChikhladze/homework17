@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">homework17</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="back">Back</string>
+    <string name="login">Log In</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="tv_email">Email:</string>
+    <string name="log_out">Log Out</string>
+    <string name="mismatched_passwords_error">Passwords don\'t match</string>
+    <string name="general_error">Something went wrong</string>
+</resources>
